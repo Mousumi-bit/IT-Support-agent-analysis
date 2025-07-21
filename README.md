@@ -19,6 +19,9 @@ This project analyzes IT support ticket data to evaluate the performance of supp
 - Agents with faster resolution time tend to have higher satisfaction scores.
 - High-severity and high-priority tickets require additional resource planning.
 - Training and workload balancing can significantly improve overall performance.
+  ## 📊 Final Dashboard
+
+![Final Dashboard](dashboard.jpeg)
 
 ## 📌 Project Goal
 
